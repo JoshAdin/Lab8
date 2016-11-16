@@ -1,0 +1,50 @@
+{
+    "address": "windsor",
+    "temp": 11.58,
+    "humidity": 58,
+    "current condition": "Clear",
+    "wind speed": 2.1,
+    "time": "11\/15\/2016 06:09:34 pm"
+}{
+    "location": "Toronto",
+    "temp": 8.78,
+    "humidity": 87,
+    "current condition": "Clear",
+    "wind speed": 3.6,
+    "time": "11\/15\/2016 06:13:56 pm"
+}{
+    "location": "Abuja",
+    "temp": 20.001,
+    "humidity": 61,
+    "current condition": "Clear",
+    "wind speed": 1.76,
+    "time": "11\/15\/2016 06:17:54 pm"
+}{
+    "location": "warri",
+    "temp": 25.551,
+    "humidity": 84,
+    "current condition": "Clear",
+    "wind speed": 4.21,
+    "time": "11\/15\/2016 06:18:25 pm"
+}{
+    "location": "portharcourt",
+    "temp": 23.426,
+    "humidity": 95,
+    "current condition": "Clear",
+    "wind speed": 3.01,
+    "time": "11\/15\/2016 06:18:54 pm"
+}{
+    "location": "windsor",
+    "temp": 8.88,
+    "humidity": 62,
+    "current condition": "Clouds",
+    "wind speed": 3.06,
+    "time": "11\/15\/2016 08:12:12 pm"
+}{
+    "location": "Abia",
+    "temp": 24.776,
+    "humidity": 84,
+    "current condition": "Clear",
+    "wind speed": 4.41,
+    "time": "11\/15\/2016 08:15:50 pm"
+}
